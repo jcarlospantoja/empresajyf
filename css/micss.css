@@ -1,0 +1,136 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.contenedor {
+
+    width: 100%;
+}
+
+
+
+.palabras-3 {
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.filosofia {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #9c1229;
+    font-size: 20px;
+    font-weight: 500;
+}
+.areas-negocio {
+   
+    padding-bottom: 50px;
+}
+.tres-areas {
+
+    padding: 10px;
+}
+.menu-desplegable {
+    color: #093566;
+}
+
+.experiencia-regional-letra {
+    margin-top: 60px;
+}
+.capacidad {
+    color: #093566;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.footer {
+    padding: 50px 50px 0 50px;
+}
+.fa-3x {
+    margin: 5px 10px;
+}
+
+.ubica {
+    color: #093566;
+    margin: 0;
+    padding: 0;
+}
+
+.icono-contacto {
+    font-size: 15px;
+}
+
+.cons-op-in {
+    font-size: 20px;
+}
+
+
+
+.mapa {
+    width: 1000px;
+    background:#faf4f4;
+}
+
+.proyectos-realizados {
+    color: #093566;
+    font-size: 13px;
+}
+
+.titulo-proyectos {
+    font-weight:700;
+    color: #093566; 
+}
+
+.subtitulo-proyectos {
+    font-size: 18px;
+}
+
+.h3-quienes-somos {
+    font-weight: 700;
+    color: #093566;
+}
+
+.h3-servicios {
+    font-weight: 700;
+    color: #093566;
+}
+
+.h3-mision-vision {
+    font-weight: 700;
+    color: #093566;
+}
+
+.h4-contactenos {
+    font-size: 30px;
+}
+
+
+
+.contenido-3-imagenes {
+    margin-top: 30px;
+}
+
+.contenido-sostenibilidad {
+    margin-top: 10%;
+}
+
+
+/*RESPONSIVE */
+@media only screen and (max-width: 600px) {
+    .palabras-3 {
+        font-size: 30px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+    }
+
+    .proyectos-realizados {
+        color: #093566;
+        font-size: 11px;
+    }
+  }
+
+
+
+
+
+
+
